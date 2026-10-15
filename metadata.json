@@ -1,0 +1,8 @@
+{
+  "name": "Remix VenturePro Events \u0026 Procurement",
+  "description": "Next-generation enterprise event management platform featuring integrated purchase orders, supplier procurement, multi-seat coworker invites, real-time ticket sales tracking, and live payment split transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
